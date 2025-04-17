@@ -1,0 +1,5 @@
+.terraform/
+awscliv2.zip
+*.tfstate*
+.DS_Store
+*.log
